@@ -2,7 +2,7 @@
 
 ## Instructions
 
-`Write a JavaScript function called`dateDiffInDays` that takes two dates as inputs and returns the difference in days between the two dates. The function should handle both past and future dates.
+Write a JavaScript function called `dateDiffInDays` that takes two dates as inputs and returns the difference in days between the two dates. The function should handle both past and future dates.
 
 ## Examples
 
